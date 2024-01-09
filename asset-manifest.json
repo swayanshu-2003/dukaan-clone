@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dukaan-clone/static/css/main.7a030af1.css",
+    "main.js": "/dukaan-clone/static/js/main.74b092e7.js",
+    "index.html": "/dukaan-clone/index.html",
+    "main.7a030af1.css.map": "/dukaan-clone/static/css/main.7a030af1.css.map",
+    "main.74b092e7.js.map": "/dukaan-clone/static/js/main.74b092e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a030af1.css",
+    "static/js/main.74b092e7.js"
+  ]
+}
